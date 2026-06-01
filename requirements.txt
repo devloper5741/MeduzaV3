@@ -17,3 +17,4 @@ pycryptodome
 psutil
 portalocker
 asyncio
+gunicorn
